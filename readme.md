@@ -24,7 +24,7 @@ O curso é composto por 30 desafios, cada um abordando conceitos importantes do 
 
 ## Como Acompanhar o Curso
 
-O curso pode ser acessado gratuitamente pelo site oficial: [https://javascript30.com/](https://javascript30.com/) ou pela playlist completa no YouTube: [JavaScript 30 - Wes Bos - YouTube](https://www.youtube.com/playlist?list=PLoNw8VJYj60gkQ7k1HqHb5goHhrH5paZN)
+O curso pode ser acessado gratuitamente pelo site oficial: [https://javascript30.com/](https://javascript30.com/) ou pela playlist completa no YouTube: [JavaScript 30 - Wes Bos - YouTube](https://youtu.be/VuN8qwZoego?si=5Gjw5ZrGbrEeqAdb)
 
 ## Autor
 
