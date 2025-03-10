@@ -1,4 +1,4 @@
 main {
     height: 100vh;
-    background-image: url(image/background.jpg);
+    background: url(image/background.jpg);
 }
