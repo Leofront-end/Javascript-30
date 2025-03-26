@@ -17,9 +17,9 @@ function setVoice() {
     toggle()
 }
 
-function toggle (startOVer = true) {
+function toggle (startOver = true) {
     speechSynthesis.cancel()
-    if (startOVer) {
+    if (startOver) {
         speechSynthesis.speak(msg)
     }
 }
